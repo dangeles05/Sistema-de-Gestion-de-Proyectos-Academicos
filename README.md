@@ -1,4 +1,4 @@
-# Sistema-de-Gestion-de-Proyectos-Academicos
+# Sistema de Gestion de Proyectos Academicos
 Repositorio oficial de el Departamento de Posgrado e Investigación y Subdirección de Posgrado e Investigación para la gestión y respaldo de el sistema que será entregado posteriormente a los administradores
 
 ## Cronograma de Actividades
@@ -33,3 +33,7 @@ Repositorio oficial de el Departamento de Posgrado e Investigación y Subdirecci
 | 17  | Elaboración de documentación                       | Semanal      |
 | 18  | Entrega final del sistema                          | Única vez    |
 
+
+## Diagrama relacional de base de datos
+
+![Diagrama entidad relación](./img/DiagramaSistemaBusqueda.png)

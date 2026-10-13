@@ -125,6 +125,16 @@ CREATE TABLE Informes
 );
 GO
 
+-- Actualización: Se agregegó el campo asesor a las tablas Proyectos y LineasInvestigacion
+
+ALTER TABLE dbo.Proyectos
+ADD Asesor NVARCHAR(150) NULL;
+GO
+
+ALTER TABLE dbo.LineasInvestigacion
+ADD Asesor NVARCHAR(150) NULL;
+GO
+
 -- Comprobar que existen las seis tablas
 
 SELECT TABLE_NAME
